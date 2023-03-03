@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-afternoon/static/css/main.6c743c21.css",
+    "main.js": "/react-afternoon/static/js/main.2724a236.js",
+    "index.html": "/react-afternoon/index.html",
+    "main.6c743c21.css.map": "/react-afternoon/static/css/main.6c743c21.css.map",
+    "main.2724a236.js.map": "/react-afternoon/static/js/main.2724a236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c743c21.css",
+    "static/js/main.2724a236.js"
+  ]
+}
